@@ -1,0 +1,79 @@
+<!--MAKING FORM VISIBLE-->
+<script> 
+	function showhide(id) 
+{
+    var e = document.getElementById(id);
+    e.style.display = (e.style.display == 'block') ? 'none' : 'block';
+}
+</script>
+
+<html>
+    <head>
+        <title>My Closet</title>
+        <meta charset="UTF-8"> 
+        <meta name="description" content="A filter-able data base containing (virtually) all items in my closet"> 
+        <meta name="author" content="Rotem Arie">
+
+        <style> 
+        h1 {color:#36453b; font-size:45pt; font-family:"Trebuchet MS"; text-align:center;} 
+        body {background-color: mintcream;}
+        button {width:18%; font-family:"Trebuchet MS"; border-style: solid; 
+        text-align:center; border: 2px solid rgb(243, 245, 243); border-radius: 5px; 
+        padding: 10px; font-size:13pt; margin-bottom:30px; background-color:#515751; color:mintcream}
+        form {font-family:"Trebuchet MS"; text-align:center; border: 2px solid rgb(73, 80, 73); border-radius: 5px; padding: 10px;}
+        </style>
+    </head>
+
+    <body style="padding: 50px;">
+        <h1>My Closet</h1>
+        <div style="text-align:center;">
+            <div><button href="#" onclick="javascript:showhide('insertNewItem'); return false" name="newItem" type="button">Enter new item</button></div>
+            <div><button name="closet" type="button">See all items</button></div>
+            <div><button onclick="window.location.href = 'index.html'" name="back" type="button">Back to Home Screen</button></div>
+        </div>
+        <div style="width: 30%; position: absolute; left: 35%;">
+        <form id="insertNewItem" action="/myCloset.xlsx"; style="display:none";>
+            <!--DESCRIPTION-->
+            <label for="description">Item description:</label>
+            <input type="text" id="description" name="description"><br><br>
+            <!--TYPE-->
+            <label for="Type">Type:</label>
+            <select name="type" id="type">
+                <option value="top">Top</option>
+                <option value="bottom">Bottom</option>
+                <option value="shoes">Shoes</option>
+                <option value="otherTop">Other Top</option>
+              </select>
+              <br><br>
+              <!--BRAND-->
+            <label for="Brand">Brand:</label>
+            <select name="type" id="type">
+                <option value="uniqlo">Uniqlo</option>
+                <option value="AE">American Eagle</option>
+                <option value="lulu">Lululemon</option>
+                <option value="a&f">Abercrombie</option>
+                <option value="other">Other</option> <!--find out how to add options, also want a different list of brands for shoes-->
+              </select>
+              <br><br>
+              <!--COLOR-->
+            <label for="Color">Color:</label>
+            <select name="type" id="type">
+                <option value="navyBlue">Navy Blue</option>
+                <option value="brightBlue">Bright Blue</option>
+                <option value="grey">Grey</option>
+                <option value="cream">Cream</option>
+                <option value="white">White</option>
+                <option value="black">Black</option>
+                <option value="other">Other</option> <!--find out how to add options-->
+              </select>
+              <br><br>
+            <!--PRICE-->
+            <label for="Price">Price:</label>
+            <input type="text" id="price" name="price"><br><br>
+
+            <input type="submit" value="Submit">
+          </form> </div>
+       
+    </body>
+
+</html>

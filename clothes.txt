@@ -1,0 +1,163 @@
+Grey Scuba half zip hoodie	Hoodie	Lululemon	118	online	\N
+Black turtle neck	Shirt	American Eagle	17	online	\N
+White turtle neck	Shirt	American Eagle	17	online	\N
+Cream turtle neck	Shirt	American Eagle	17	online	\N
+navy/blue Align reversible bra	Sports bra	Lululemon	28	online	\N
+white/grey Align reversible bra	Sports bra	Lululemon	58	online	\N
+navy Align leggings	Leggings	Lululemon	98	online	\N
+Black Align Leggings	Leggings	Lululemon	78	online	\N
+Bright-blue high vans	Shoes	Vans	50	online	\N
+White High blazer	Shoes	Nike	98	online	\N
+Cream Air force 1 shadow	Shoes	Nike	100	online	\N
+Cream Chuck 70	Shoes	Converse	70	online	\N
+White Low Blazer	Shoes	Nike	90	online	\N
+White Continental 80	Shoes	Adidas	0	online	\N
+Red Sandals	Shoes	Shoresh	0	in store	\N
+Black open sandals	Shoes	birkenstock	\N	online	\N
+Brown boots	Shoes	Blundstone	\N	in store	\N
+Navy Coat	Coat	Hollister	\N	online	\N
+Green Coat	Coat	Hollister	\N	online	\N
+Multi-color puffer coat	Coat	Columbia	\N	in store	\N
+White HeatTech shirt	Shirt	Uniqlo	\N	online	\N
+Black HeatTech shirt	Shirt	Uniqlo	\N	online	\N
+Black HeatTech leggings	Leggings	Uniqlo	\N	online	\N
+Grey Spiderman sweatshirt	Sweatshirt	Etsy	\N	online	\N
+Navy AirLift shorts	Leggings	Alo Yoga	30	online	\N
+Navy AirLift bra	Sports bra	Alo Yoga	\N	online	\N
+Cream bra-top	Bra	Alo Yoga	\N	online	\N
+Black bra-top	Bra	Marshalls	0	in store	\N
+Grey Cargo Pants	Pants	Bershka	\N	in store	\N
+Cream waffle button up	Jacket	Aerie	40	online	\N
+Grey zip up	Jacket	Old Navy	\N	online	\N
+Blue Mom jeans medium wash	Jeans	American Eagle	\N	online	\N
+Blue mom jeans light wash	Jeans	American Eagle	\N	online	\N
+Black mom jeans dark wash	Jeans	American Eagle	\N	online	\N
+White mom jeans	Jeans	American Eagle	0	online	\N
+Cream cargo pants	Pants	Pull & Bear	\N	in store	\N
+Cream linen blend pants	Pants	Blueberry	0	in store	\N
+Blue quarter-buttoned waffle shirt	Shirt	Hollister	\N	online	\N
+White quarter-buttoned waffle shirt	Shirt	Hollister	\N	online	\N
+Navy oversized sweater	Sweater	American Eagle	\N	in store	\N
+Gret oversized sweater	Sweater	American Eagle	\N	in store	\N
+White long sleeve	Shirt	The North Face	\N	online	\N
+White long sleeve	Shirt	Aerie	\N	in store	\N
+White quarter zip	Shirt	Adidas	\N	in store	\N
+Cream oversized waffle shirt	Sweater	Uniqlo	\N	in store	\N
+Black oversized waffle shirt	Sweater	Uniqlo	\N	in store	\N
+Grey sweater	sweater	Thrift	0	in store	\N
+Navy sweatpants	Sweatpants	Hollister	\N	online	\N
+Black sweatpants	Sweatpants	Hollister	\N	online	\N
+Grey sweatpants	Sweatpants	Hollister	\N	online	\N
+White long sleeve	Shirt	Shein	\N	online	\N
+White long sleeve	Shirt	Hollister	\N	online	\N
+White long sleeve	Shirt	American Eagle	\N	in store	\N
+Black sunflower long sleev	Shirt	Hollister	\N	online	\N
+Whie with grey hoodie long sleeve	Shirt	Hollister	\N	online	\N
+Navy Brandeis long sleeve	Shirt	Brandeis	\N	in store	\N
+White long sleeve bodysuit	Bodysuit	Abercrombie	\N	online	\N
+Cream thick sweater	Sweater	American Eagle	\N	online	\N
+Blue button up	Shirt	H&M	\N	in store	\N
+White button up	Shirt	Abercrombie	\N	online	\N
+White button up	Shirt	Blueberry	\N	in store	\N
+Blue overall medium wash	Overalls	Levi's	\N	online	\N
+White bralette	Bra	Aerie	\N	online	\N
+Bright-blue bralette	Bra	Aerie	\N	online	\N
+Orange plaid button up	Shirt	Thrift	0	in store	\N
+Black-white cropped plaid button up	Shirt	American Eagle	\N	online	\N
+Black mini dress	Dress	H&M	\N	in store	\N
+Blue mini dress	Dress	Pull & Bear	\N	in store	\N
+Blue mini flower dress	Dress	Thrift	\N	in store	\N
+Blue mini dress	Dress	Francesca's	\N	online	\N
+Green flowe mini dress	Dress	Shasa	\N	in store	\N
+Black mini skirt	Skirt	H&M	\N	in store	\N
+Bright-blue flower mini skirt	Skirt	Shein	\N	online	\N
+Pink Hoodie	Hoodie	Adidas	0	in store	\N
+Blue jeans jacket	Jacket	Pimkie	\N	in store	\N
+Grey hoodie	Hoodie	Aerie	\N	online	\N
+Grey Sweatshirt (Sunday easy Crew)	Sweatshirt	Abercrombie	\N	online	\N
+Grey chemistry hoodie	Hoodie	Brandeis	15	online	\N
+Blue chemistry hoodie	Hoodie	Brandeis	15	online	\N
+Grey hoodie	Hoodie	Adidas	\N	in store	\N
+Grey Brandeis hoodie	Hoodie	Brandeis	\N	in store	\N
+Grey fleece	Jacket	Columbia	0	in store	\N
+Green sweatshirt	Sweatshirt	H&M	\N	in store	\N
+Blue Hillel Sweatshirt	Sweatshirt	Brandeis	0	in store	\N
+Black coat	Coat	Thrift	0	in store	\N
+Black rain coat	Coat	Columbia	\N	online	\N
+Grey bra-top	Bra	Marshalls	0	in store	\N
+Grey pj shorts	Shorts	Aerie	\N	online	\N
+Grey pj shorts	Shorts	Marshalls	\N	in store	\N
+Green ribbed tank	Tank top	Abercrombie	\N	online	\N
+Black tank bodysuit	Bodysuit	Abercrombie	\N	online	\N
+Navy ribbed crop tank	Cropped top	American Eagle	\N	in store	\N
+Grey ribbed tank	Tank top	Abercrombie	\N	online	\N
+White ribbed cropped tank w assymetric shoulder	Cropped top	Abercrombie	\N	online	\N
+White ribbed cropped tank	Cropped top	Abercrombie	\N	online	\N
+Grey ribbed cropped tank w assymetric shoulder	Cropped top	Abercrombie	\N	online	\N
+White tank bodysuit	Bodysuit	Abercrombie	\N	online	\N
+White lace straps cropped tank	Cropped top	American Eagle	\N	online	\N
+Grey quarter-button tank top	Tank top	Abercrombie	\N	online	\N
+White crosssover v-neck w side tie Tshirt	T-Shirt	Hollister	\N	online	\N
+Black crosssover v-neck w side tie Tshirt	T-Shirt	Hollister	\N	online	\N
+White ribbed tank top	Tank top	Abercrombie	\N	online	\N
+Grey tank bodyduit	Bodysuit	Abercrombie	\N	online	\N
+Navy oversized shirt	T-Shirt	Amazon	\N	online	\N
+Grey long sleeve	Shirt	Aerie	\N	in store	\N
+Dark-Grey long sleeve	Shirt	Aerie	\N	in store	\N
+Grey waffle button up shirt	Shirt	Aerie	\N	online	\N
+Yellow oversized Birginia Tshirt	T-Shirt	Thrift	\N	in store	\N
+Grey oversized t-shirt	T-Shirt	Adidas	\N	in store	\N
+Black Tuna&Ravid t-shirt	T-Shirt	Concert	15	in store	\N
+Orange oversized t-shirt	T-Shirt	Fox	0	in store	\N
+White soft t-shirt	T-Shirt	Abercrombie	\N	online	\N
+Grey soft t-shirt	T-Shirt	Abercrombie	\N	online	\N
+White cropped-top	Cropped top	American Eagle	\N	online	\N
+Dark-Grey cropped top	Cropped top	American Eagle	\N	online	\N
+Cream Hellfire club t-shirt	T-Shirt	Market	\N	in store	\N
+Blue North Carolina oversized t-shirt	T-Shirt	Thrift	\N	in store	\N
+Dark-grey sports tank	Cropped top	Aerie	\N	in store	\N
+Black dports tank	Cropped top	Halara	\N	online	\N
+White oversized t-shirt	T-Shirt	Pull & Bear	\N	in store	\N
+Grey lace-straps cropped tank	Cropped top	American Eagle	\N	online	\N
+White crop top semi-ribbed	Cropped top	American Eagle	\N	online	\N
+White cropped nike tshirt	T-Shirt	Nike	\N	in store	\N
+White bralette top with lace	Bra	Aerie	\N	in store	\N
+Blue bralette top with lace	Bra	Aerie	\N	in store	\N
+White with blue flower cropped tank	Cropped top	Shasa	\N	in store	\N
+Black Align shorts	Leggings	Lululemon	\N	online	\N
+Blue Align shorts	Leggings	Lululemon	\N	online	\N
+Black crossover shorts	Leggings	Aerie	\N	online	\N
+Green crossover shorts	Leggings	Aerie	\N	in store	\N
+Navy crossover leggings	Leggings	Aerie	\N	online	\N
+Black crossover leggings	Leggings	Aerie	\N	online	\N
+Blue crossover leggings	Leggings	Aerie	\N	online	\N
+Blue crossover shorts	Leggings	Aerie	\N	in store	\N
+Navy crossover shorts	Leggings	Aerie	\N	in store	\N
+Black running shorts	Shorts	Adidas	\N	in store	\N
+Green cropped sports tank	Cropped top	Adidas	\N	in store	\N
+White cropped sports tank	Cropped top	Adidas	\N	in store	\N
+Black sports tank	Tank top	Reebok	\N	in store	\N
+White sports bra	Sports bra	Reebok	\N	in store	\N
+Bright-blue sports bra	Sports bra	Reebok	\N	in store	\N
+Black long sleev sports shirt	Shirt	Columbia	\N	in store	\N
+Navy long sleev sports shirt	Shirt	Columbia	\N	in store	\N
+Bright-blue longline Y-flow sports bra	Sports bra	Lululemon	\N	online	\N
+Cream Y-flow sports bra	Sports bra	Lululemon	\N	online	\N
+White Y-flow sports bra	Sports bra	Lululemon	\N	online	\N
+Black sports bra	Sports bra	Nike	\N	in store	\N
+Multi-color flower sports bra	Sports bra	Hollister	\N	online	\N
+Yellow sports bra	Sports bra	Nike	\N	in store	\N
+Blue lace sports bra	Sports bra	Pink	\N	online	\N
+White sports bra	Sports bra	Pink	\N	online	\N
+Grey military sport shirt	T-Shirt	Home	0	NA	\N
+White MDA sport t-shirt	T-Shirt	Home	0	NA	\N
+White Brandeis owls t-shirt	T-shirt	Brandeis	0	NA	\N
+White Hillel t-shirt	T-Shirt	Brandeis	0	NA	\N
+Blue 90s jean shorts light wash	Shorts	American Eagle	\N	online	\N
+Blue crossover jean shorts	Shorts	American Eagle	\N	online	\N
+White 501 jean shorts	Shorts	Levi's	\N	online	\N
+Cream linen blend shorts	Shorts	Abercrombie	\N	online	\N
+Bright-blue linen blend shorts	Shorts	Abercrombie	\N	online	\N
+Blue jean shorts medium wash	Shorts	Pull & Bear	\N	in store	\N
+White linen blend shorts	Shorts	Blueberry	\N	in store	\N
+Blue jean shorts light wash	Shorts	Hollister	\N	online	\N
